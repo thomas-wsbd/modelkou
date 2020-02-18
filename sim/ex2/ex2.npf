@@ -1,0 +1,12 @@
+BEGIN options
+  SAVE_FLOWS
+END options
+
+BEGIN griddata
+  icelltype
+    CONSTANT  1
+  k  LAYERED
+    CONSTANT  3.50000000E-04
+    CONSTANT  7.00000000E-05
+END griddata
+

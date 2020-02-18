@@ -1,0 +1,21 @@
+BEGIN options
+  LENGTH_UNITS  meters
+END options
+
+BEGIN dimensions
+  NLAY  1
+  NROW  50
+  NCOL  50
+END dimensions
+
+BEGIN griddata
+  delr
+    CONSTANT      20.00000000
+  delc
+    CONSTANT      20.00000000
+  top
+    CONSTANT       0.00000000
+  botm
+    CONSTANT     -50.00000000
+END griddata
+

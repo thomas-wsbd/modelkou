@@ -1,0 +1,19 @@
+BEGIN options
+  BOUNDNAMES
+  SAVE_FLOWS
+END options
+
+BEGIN dimensions
+  MAXBOUND  2
+END dimensions
+
+BEGIN period  1
+  1 9 9      -0.02000000  'First Well'
+  2 13 17      -0.02500000  'Second Well'
+END period  1
+
+BEGIN period  2
+  1 9 9      -0.05000000  'First Well'
+  2 13 17      -0.04000000  'Second Well'
+END period  2
+

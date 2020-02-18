@@ -1,0 +1,4 @@
+202001211519   0     8     0vinkc H:\Projecten\BurkinaFaso\gis\UTM\n10w10_con_UTM.asc = GRIDASCII ( H:\Projecten\BurkinaFaso\gis\UTM\BF.gdb\n10w10_con_UTM )
+202001211520   1     9     0vinkc H:\Projecten\BurkinaFaso\gis\UTM\n10w10_dem_UTM.asc = GRIDASCII ( H:\Projecten\BurkinaFaso\gis\UTM\BF.gdb\n10w10_dem_UTM )
+202001211521   1     8     0vinkc H:\Projecten\BurkinaFaso\gis\UTM\n10w5_dem_UTM.asc = GRIDASCII ( H:\Projecten\BurkinaFaso\gis\UTM\BF.gdb\n10w5_dem_UTM )
+202001211522   1     9     0vinkc H:\Projecten\BurkinaFaso\gis\UTM\n10w5_c2_UTM.asc = GRIDASCII ( H:\Projecten\BurkinaFaso\gis\UTM\BF.gdb\n10w5_c2_UTM )

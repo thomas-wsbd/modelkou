@@ -1,0 +1,6 @@
+Projection    UTM
+Zone          30
+Spheroid      CLARKE1880
+Units         METERS
+Zunits        NO
+Parameters    

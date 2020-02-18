@@ -1,0 +1,12 @@
+BEGIN options
+END options
+
+BEGIN packages
+  DIS6  ex1.dis  dis
+  IC6  ex1.ic  ic
+  CHD6  ex1.chd  chd_0
+  NPF6  ex1.npf  npf
+  WEL6  ex1.wel  wel_0
+  OC6  ex1.oc  oc
+END packages
+
