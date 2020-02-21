@@ -4,7 +4,7 @@
 You can download the data (geodata like locations of the rivers, digital elevations models of the Kou area), scripts and examples either via Owncloud or Github, Owncloud is the easier if you don't have Git.
 
 #### Via OwnCloud
-Go to this [link]() and download the zip-file.
+Go to [this link](https://owncloud.brabantsedelta.nl/index.php/s/oybM3PwuPexvych) and download the zip-file containing all data.
 
 #### Via Github 
 Go to [this repository](https://github.com/thomas-wsbd/modelkou). You can use Git or follow the following steps.
