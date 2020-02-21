@@ -1,5 +1,13 @@
 # modelkou
-This repository contains some data (geodata like locations of the rivers, digital elevations models of the Kou area), scripts and examples. You can download the repository using the green button ``Clone or download`` > ``Download ZIP``. This will not download the ``.asc`` files (they are too big, and store using Git Lfs), you can manually download the ascii raster files from [here](https://github.com/thomas-wsbd/modelkou/tree/master/data/kou) select the ``.asc`` file you want to download and click on ``Download`` in the following tab. 
+You can download the data (geodata like locations of the rivers, digital elevations models of the Kou area), scripts and examples either via Owncloud or Github, Owncloud is the easier if you don't have Git.
+
+## Via OwnCloud
+Go to this [link]() and download the zip-file.
+
+## Via Github 
+Go to [this repository](https://github.com/thomas-wsbd/modelkou). You can use Git or follow the following steps.
+1. Download the repository using the green button ``Clone or download`` > ``Download ZIP``. 
+2. This will not download the ``.asc`` files (they are too big, and store using Git Lfs), you can manually download the ascii raster files from [here](https://github.com/thomas-wsbd/modelkou/tree/master/data/kou) select the ``.asc`` file you want to download and click on ``Download`` in the following tab. 
 
 ## Installing software
 Depending on what you will be doing coming days the following software could be usefull. Mind your computer specs and find the correct download using the following links;
