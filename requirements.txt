@@ -25,7 +25,7 @@ mplleaflet == 0.0.5
 # ex2.py: 11
 # flopy example.py: 11
 # kou.py: 11
-numpy == 1.17.4+mkl
+numpy == 1.22.0rc1
 
 # kou.py: 14
 pandas == 0.25.3
