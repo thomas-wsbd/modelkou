@@ -11,7 +11,7 @@ GDAL == 3.0.2
 flopy == 3.3.0
 
 # kou.py: 13
-geopandas == 0.6.2
+geopandas == 1.1.2
 
 # ex1.py: 107
 # ex2.py: 107
